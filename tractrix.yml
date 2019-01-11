@@ -1,2 +1,4 @@
 codelift:
+  experimental:
+    cache: true
   goimports: default
