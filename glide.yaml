@@ -1,0 +1,4 @@
+package: github.com/tractrix/codelift-plugins
+import:
+- package: github.com/fatih/color
+  version: 62e9147c64a1ed519147b62a56a14e83e2be02c1
